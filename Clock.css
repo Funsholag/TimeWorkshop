@@ -1,0 +1,19 @@
+html, body{
+  height: 100%;
+}
+
+#water {
+	font: 64px/64px sans-serif;
+  text-align: center;
+  background-image:url("https://openclipart.org/image/2400px/svg_to_png/174087/board.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 3em;
+  margin-top: 10%;
+}
+
+#yo{
+  font-size: 25px;
+  color: inherit;
+}
