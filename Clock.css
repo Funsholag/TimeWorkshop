@@ -1,7 +1,3 @@
-html, body{
-  /*height: 100%;*/
-}
-
 #water {
 	font: 64px/64px sans-serif;
   text-align: center;
@@ -13,7 +9,6 @@ html, body{
   height: auto;
   padding: 3em;
   margin: 0 auto;
-  /*margin-top: 10%;*/
 }
 
 #yo{
